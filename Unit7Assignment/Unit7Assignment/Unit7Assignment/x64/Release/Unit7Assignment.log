@@ -1,0 +1,13 @@
+﻿  AdminMenu.cpp
+  Catalog.cpp
+  Checkout.cpp
+  CreateAccount.cpp
+  CustomerMenu.cpp
+  LoginSystem.cpp
+  main.cpp
+  Generating code
+  5 of 547 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Unit7Assignment.vcxproj -> C:\Users\SERVER\Documents\Unit7Assignment\Unit7Assignment\x64\Release\Unit7Assignment.exe
